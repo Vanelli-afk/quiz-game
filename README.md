@@ -102,4 +102,4 @@ The total number of questions and maximum score are automatically updated based 
 ## 👤 Author
 ### More about me
 * GitHub: [@Vanelli-Afk](https://github.com/Vanelli-afk)
-* LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/miguel-vanelli)
+* LinkedIn: [Miguel Vanelli](https://linkedin.com/in/miguel-vanelli)
